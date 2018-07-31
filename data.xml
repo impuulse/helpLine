@@ -1,0 +1,9 @@
+<expr>
+    <sum>
+        <number>4</number>
+        <mul>
+            <number>2</number>
+            <number>0.5</number>
+        </mul>
+    </sum>
+</expr>
